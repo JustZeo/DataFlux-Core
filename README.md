@@ -353,10 +353,3 @@ DataFlux is at **v0.1.0** — all nine planned providers for this release are im
 
 ---
 
-## License
-
-*(add your chosen license here — MIT, Apache-2.0, etc.)*
-
-## Contributing
-
-*(add contribution guidelines here once ready to accept external PRs)*
